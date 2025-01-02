@@ -9,7 +9,6 @@ To recreate the Amazon home page using HTML and CSS, i've focued on replicating 
 
 **Footer**: Add additional navigation links, contact information, and other resources.
 
-
 **Style with CSS:**
 
 **Responsive Design**: Ensure the page looks good on various screen sizes using media queries.
