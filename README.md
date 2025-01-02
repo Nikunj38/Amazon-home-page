@@ -1,7 +1,7 @@
 # Amazon-home-page
 To recreate the Amazon home page using HTML and CSS, i've focued on replicating its key components and styling. Here’s a brief overview:
 
-****Structure the HTML:****
+******Structure the HTML:******
 
 Header: Include navigation links (such as Best Sellers, Today's Deals, etc.), a search bar, and user account options.
 
